@@ -2,6 +2,11 @@ import toast from 'react-hot-toast';
 
 // Validate login page username 
 
+export async function usernameValidate(values) {
+    const errors = usernameVerify({}, values);
+
+    return errors;
+}
 
 // Validate Username 
 
