@@ -2,7 +2,7 @@ import React from 'react'
 
 function Reset() {
   return (
-    <div>Reset</div>
+    <div>Reset Id</div>
   )
 }
 
