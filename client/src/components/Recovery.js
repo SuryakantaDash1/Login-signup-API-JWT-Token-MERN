@@ -2,7 +2,7 @@ import React from 'react'
 
 function Recovery() {
   return (
-    <div>Recovery</div>
+    <div>Recovery page</div>
   )
 }
 
