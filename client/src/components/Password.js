@@ -2,7 +2,7 @@ import React from 'react'
 
 function Password() {
   return (
-    <div>Password</div>
+    <div>Password page</div>
   )
 }
 
