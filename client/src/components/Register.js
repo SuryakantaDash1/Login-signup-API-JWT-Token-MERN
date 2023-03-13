@@ -2,7 +2,7 @@ import React from 'react'
 
 function Register() {
   return (
-    <div>Register page</div>
+    <div>Registered page</div>
   )
 }
 
